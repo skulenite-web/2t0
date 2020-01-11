@@ -1,0 +1,269 @@
+ppl2 = {
+    "brains" : [
+        {
+            "name" : "Johnny McGroarty",
+            "role" : "Director"
+        },
+        {
+            "name" : "Sean Pitre",
+            "role" : "Assistant Director"
+        },
+        {
+            "name" : "Angela Ma",
+            "role" : "Producer"
+        },
+        {
+            "name" : "David Pecile",
+            "role" : "Assistant Producer"
+        },
+        {
+            "name" : "Danja Papajani",
+            "role" : "Choreographer"
+        },
+        {
+            "name" : "Mackenzie Clark",
+            "role" : "Assistant Choreographer"
+        },
+        {
+            "name" : "Alex Dowling",
+            "role" : "Vocals"
+        },
+        {
+            "name" : "Mackenzie Seward",
+            "role" : "Vocals"
+        },
+        {
+            "name" : "Stephanie McDonald",
+            "role" : "Assistant Vocals"
+        },
+        {
+            "name" : "Nicholas Popowich",
+            "role" : "Music Director"
+        },
+        {
+            "name" : "Bennett Leong",
+            "role" : "Assistant Music Director"
+        },
+        {
+            "name" : "Jenny Graydon",
+            "role" : "Head Writer"
+        },
+    ],
+    
+    "crew" : [
+        {
+            "name" : "Sinan Keyder",
+            "role" : "Stage Manager"
+        },
+        {
+            "name" : "Seif Sarofim",
+            "role" : "Floor Manager"
+        },
+        {
+            "name" : "Brandon Lista",
+            "role" : "Master Carpenter"
+        },
+        {
+            "name" : "Cameron Whittle",
+            "role" : "Master Carpenter"
+        },
+        {
+            "name" : "Michelle Ji",
+            "role" : "Master Painter"
+        },
+        {
+            "name" : "Ashley An",
+            "role" : "Assistant Master Painter"
+        },
+        {
+            "name" : "Andrew Uderian",
+            "role" : "Lighting"
+        },
+        {
+            "name" : "Scarlett Zhou",
+            "role" : "Assistant Lighting"
+        },
+        {
+            "name" : "Ethan Dean",
+            "role" : "Sound"
+        },
+        {
+            "name" : "Charlotte Erb",
+            "role" : "Assistant Sound"
+        },
+        {
+            "name" : "Bing Li",
+            "role" : "SFX"
+        },
+        {
+            "name" : "Jonathan Norman",
+            "role" : "SFX"
+        },
+        {
+            "name" : "Reena Cabanilla",
+            "role" : "Costumes"
+        },
+        {
+            "name" : "Kyra Poupore",
+            "role" : "Assistant Costumes"
+        },
+        {
+            "name" : "Meghan Muldoon",
+            "role" : "Props"
+        },
+        {
+            "name" : "Yesim Barista",
+            "role" : "Assistant Props"
+        },
+        {
+            "name" : "James Xu",
+            "role" : "Tech Director"
+        },
+        {
+            "name" : "Buke Erkoc",
+            "role" : "Assistant Tech Director"
+        },
+        {
+            "name" : "Marinette Chen",
+            "role" : "Videographer"
+        },
+        {
+            "name" : "Gabe Sher",
+            "role" : "Webmaster"
+        },
+        {
+            "name" : "Katherine Rich",
+            "role" : "Graphics"
+        },
+        {
+            "name" : "Laura Berneage",
+            "role" : "Marketing"
+        },
+    ],
+    
+    "band" : [
+        {
+            "name" : "Katherine Mao",
+            "role" : "Alto Sax"
+        },
+        {
+            "name" : "Ian Wang",
+            "role" : "Tenor Sax"
+        },
+        {
+            "name" : "Emily Ding",
+            "role" : "Clarinet"
+        },
+        {
+            "name" : "Eleanor Jiang",
+            "role" : "Flute/Piccolo"
+        },
+        {
+            "name" : "Stephen Manion",
+            "role" : "Trumpet I"
+        },
+        {
+            "name" : "Alex Buck",
+            "role" : "Trumpet II / French Horn"
+        },
+        {
+            "name" : "Alec Gilvesy",
+            "role" : "Trombone"
+        },
+        {
+            "name" : "Apurv Bharadwaj",
+            "role" : "Bass Trombone"
+        },
+        {
+            "name" : "Sarah Chang",
+            "role" : "Violin"
+        },
+        {
+            "name" : "Bennett Leong",
+            "role" : "Viola / Assistant Music Director"
+        },
+        {
+            "name" : "Claire Jeon",
+            "role" : "Cello"
+        },
+        {
+            "name" : "William Pei",
+            "role" : "Keyboard"
+        },
+        {
+            "name" : "Will Wang",
+            "role" : "Guitar"
+        },
+        {
+            "name" : "Sergio Ponde Dhelomme",
+            "role" : "Bass"
+        },
+        {
+            "name" : "Twesh Updahyaya",
+            "role" : "Drums"
+        },
+        {
+            "name" : "Sabrina Chen",
+            "role" : "Aux Percussion / Keyboard II"
+        }
+    ],
+    
+    "cast" : [
+        {
+            "name" : "Jacqueline Amoranto",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Anya Banning",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Maya Dai",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Emily MacDonald-Roach",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Elene Pappas",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Rebekah Parkes",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Sofia Tijanic",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Stephen Dawe",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Thomas Dell",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Kareem El-Baradie",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Tristan Lipton",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Kevin Porras",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Mike Vu",
+            "bio" : "Bio Coming"
+        },
+        {
+            "name" : "Rohit Zachariah",
+            "bio" : "Bio Coming"
+        }
+    ]
+}

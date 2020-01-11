@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>SkuleNite - Website Coming Soon</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/cover.css" rel="stylesheet">
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <div class="site-wrapper-inner">
+        <div class="cover-container">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">SkuleNite 1T9</h3>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Tickets go on sale in...</h1>
+            <p class="lead" id="timer"></p>
+            <!--<p class="lead">-->
+            <!--  <a href="#" class="btn btn-lg btn-default">Learn more</a>-->
+            <!--</p>-->
+          </div>
+        
+        </div>
+
+      </div>
+
+    </div>
+    <script>
+        var liveDate = new Date("Jan 14, 2020 09:00:00").getTime();
+        var x = setInterval(function() {
+            // Get today
+            var now = new Date().getTime();
+            // Get dist
+            var distance = liveDate - now;
+            // Calculations
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            // Display
+            document.getElementById("timer").innerHTML = days + "d " + hours + "h "
+                                                            + minutes + "m " + seconds + "s ";
+
+            // You messed up
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("timer").innerHTML = "SOON!";
+            }
+        }, 1000);
+    </script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

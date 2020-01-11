@@ -1,0 +1,143 @@
+ppl2 = {
+    "brains" : [
+        {
+            "name" : "Johnny McGroarty",
+            "role" : "Director"
+        },
+        {
+            "name" : "Sean Pitre",
+            "role" : "Assistant Director"
+        },
+        {
+            "name" : "Angela Ma",
+            "role" : "Producer"
+        },
+        {
+            "name" : "David Pecile",
+            "role" : "Assistant Producer"
+        },
+        {
+            "name" : "Danja Papajani",
+            "role" : "Choreographer"
+        },
+        {
+            "name" : "Mackenzie Clark",
+            "role" : "Assistant Choreographer"
+        },
+        {
+            "name" : "Alex Dowling",
+            "role" : "Vocals"
+        },
+        {
+            "name" : "Mackenzie Seward",
+            "role" : "Vocals"
+        },
+        {
+            "name" : "Stephanie McDonald",
+            "role" : "Assistant Vocals"
+        },
+        {
+            "name" : "Nicholas Popowich",
+            "role" : "Music Director"
+        },
+        {
+            "name" : "Bennett Leong",
+            "role" : "Assistant Music Director"
+        },
+        {
+            "name" : "Jenny Graydon",
+            "role" : "Head Writer"
+        },
+    ],
+    
+    "crew" : [
+        {
+            "name" : "Sinan Keyder",
+            "role" : "Stage Manager"
+        },
+        {
+            "name" : "Seif Sarofim",
+            "role" : "Floor Manager"
+        },
+        {
+            "name" : "Brandon Lista",
+            "role" : "Master Carpenter"
+        },
+        {
+            "name" : "Cameron Whittle",
+            "role" : "Master Carpenter"
+        },
+        {
+            "name" : "Michelle Ji",
+            "role" : "Master Painter"
+        },
+        {
+            "name" : "Ashley An",
+            "role" : "Assistant Master Painter"
+        },
+        {
+            "name" : "Andrew Uderian",
+            "role" : "Lighting"
+        },
+        {
+            "name" : "Scarlett Zhou",
+            "role" : "Assistant Lighting"
+        },
+        {
+            "name" : "Ethan Dean",
+            "role" : "Sound"
+        },
+        {
+            "name" : "Charlotte Erb",
+            "role" : "Assistant Sound"
+        },
+        {
+            "name" : "Bing Li",
+            "role" : "SFX"
+        },
+        {
+            "name" : "Jonathan Norman",
+            "role" : "SFX"
+        },
+        {
+            "name" : "Reena Cabanilla",
+            "role" : "Costumes"
+        },
+        {
+            "name" : "Kyra Poupore",
+            "role" : "Assistant Costumes"
+        },
+        {
+            "name" : "Meghan Muldoon",
+            "role" : "Props"
+        },
+        {
+            "name" : "Yesim Barista",
+            "role" : "Assistant Props"
+        },
+        {
+            "name" : "James Xu",
+            "role" : "Tech Director"
+        },
+        {
+            "name" : "Buke Erkoc",
+            "role" : "Assistant Tech Director"
+        },
+        {
+            "name" : "Marinette Chen",
+            "role" : "Videographer"
+        },
+        {
+            "name" : "Gabe Sher",
+            "role" : "Webmaster"
+        },
+        {
+            "name" : "Katherine Rich",
+            "role" : "Graphics"
+        },
+        {
+            "name" : "Laura Berneage",
+            "role" : "Marketing"
+        },
+    ]
+}
