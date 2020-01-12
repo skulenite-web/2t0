@@ -30,6 +30,9 @@ html {
     scroll-behavior: smooth;
 }
 
+.btn-link {
+    font-size: 1.2rem;
+}
 /************ NAVBAR - GENERAL ************/
 .nav-item a {
     background-position: 0 100%;
@@ -50,6 +53,7 @@ html {
     background-color: rgba(239, 0, 209, 1);
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     font-size: 1.2rem;
+    font-weight: 700;
     transition: 0.4s linear;
     /*font-weight: 900;*/
 }
@@ -70,10 +74,16 @@ a.anchor {
 /************ HEADERS ************/
 .main-title {
     font-family: 'Demode', Montserrat, sans-serif;
+    font-size: 6em;
+}
+.main-title2 {
+    font-family: 'Marquee Moon', Montserrat, sans-serif;
+    font-size: 8em;
 }
 
 .group-title {
     font-family: 'Marquee Moon', Montserrat, sans-serif;
+    font-size: 5em;
 }
 
 .jumbotron {
