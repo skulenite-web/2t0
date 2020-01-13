@@ -74,11 +74,11 @@ a.anchor {
 /************ HEADERS ************/
 .main-title {
     font-family: 'Demode', Montserrat, sans-serif;
-    font-size: 6em;
+    font-size: 10vmax;
 }
 .main-title2 {
     font-family: 'Marquee Moon', Montserrat, sans-serif;
-    font-size: 8em;
+    font-size: 10vmax;
 }
 
 .group-title {
