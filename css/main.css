@@ -191,8 +191,8 @@ a.anchor {
 }
 
 .pink-flicker {
-    animation: flash-neon-pink 2s 2.2s ease 1;
-    -webkit-animation: flash-neon-pink 2s 2.2s ease 1;
+    animation: flash-neon-pink 2s 7s ease 1;
+    -webkit-animation: flash-neon-pink 2s 7s ease 1;
 }
 
 @keyframes flash-neon-pink {
