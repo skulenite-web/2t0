@@ -24,7 +24,7 @@
 /************ GENERAL ************/
 
 body {
-    background-image: linear-gradient(to bottom right, #262626, #111);
+    background-image: linear-gradient(to bottom right, #292929, #111);
     font-family: 'Montserrat', sans-serif;
     color: #ccc;
 }
@@ -36,6 +36,35 @@ html {
 .btn-link {
     font-size: 1.2rem;
 }
+
+.btn-primary {
+    background-color: #FAAD3D;
+    border-color: #FAAD3D;
+}
+
+.btn-primary:hover {
+    background-color: #D69335;
+    border-color: #C98A32;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+    background-color: #D69335;
+    border-color: #C98A32;
+    box-shadow: 0 0 0 0.2rem rgba(249, 187, 99, 0.5);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #C98A32;
+    border-color: #BA7F2E;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(249, 187, 99, 0.5);
+}
+
 /************ NAVBAR - GENERAL ************/
 .nav-item a {
     background-position: 0 100%;
@@ -117,9 +146,6 @@ a.anchor {
 /************ NEON ************/
 
 .pink-neon-title-on {
-    animation: flash-neon-pink 2s 1s ease 1;
-    -webkit-animation: flash-neon-pink 2s 1s ease 1;
-
     text-shadow: -.075vw 0vw .075vw #FE00E7, 
                 -.1125vw 0vw .15vw #FE00E7, 
                 -.15vw 0vw .15vw #FE00E7, 
@@ -131,6 +157,11 @@ a.anchor {
                 -.3vw 0vw .6vw #8F0130, 
                 .15vw 0vw 7.5vw #8F0130;
     color: #FF00A1;
+}
+
+.pink-flicker {
+    animation: flash-neon-pink 2s 1s ease 1;
+    -webkit-animation: flash-neon-pink 2s 1s ease 1;
 }
 
 @keyframes flash-neon-pink {
@@ -189,7 +220,6 @@ a.anchor {
     background-color: #FF00A1;
 }
 
-
 .yellow-neon-title-on {
     animation: flash-neon-yellow 2s 2s ease 1;
     -webkit-animation: flash-neon-yellow 2s 1s ease 1;
@@ -205,6 +235,11 @@ a.anchor {
                 -.3vw 0vw .6vw #937935, 
                 .15vw 0vw 7.5vw #937935;
     color: #FED104;
+}
+
+.yellow-flicker {
+    animation: flash-neon-yellow 2s 2s ease 1;
+    -webkit-animation: flash-neon-yellow 2s 1s ease 1;
 }
 
 @keyframes flash-neon-yellow {
