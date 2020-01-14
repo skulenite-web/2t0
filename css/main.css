@@ -1,22 +1,22 @@
 /************ FONTS ************/
 @font-face {
     font-family: 'Marquee Moon';
-    src: url('https://skulenite.skule.ca/moon-webfont.eot');
-    src: url('https://skulenite.skule.ca/moon-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://skulenite.skule.ca/fonts/moon-webfont.woff2') format('woff2'), 
-         url('https://skulenite.skule.ca/fonts/moon-webfont.woff') format('woff'),
-         url('https://skulenite.skule.ca/fonts/moon-webfont.svg#moon') format('svg');
+    src: url('fonts/moon-webfont.eot');
+    src: url('fonts/moon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/moon-webfont.woff2') format('woff2'), 
+         url('fonts/moon-webfont.woff') format('woff'),
+         url('fonts/moon-webfont.svg#moon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Demode';
-    src: url('https://skulenite.skule.ca/fonts/demode-webfont.eot');
-    src: url("https://skulenite.skule.ca/fonts/demode-webfont.woff") format("woff"),
-         url("https://skulenite.skule.ca/fonts/demode-webfont.woff2") format("woff2"), 
-         url("https://skulenite.skule.ca/fonts/demode-webfont.svg") format("svg"),
-         url("https://skulenite.skule.ca/fonts/Demode.ttf") format("truetype");
+    src: url('fonts/demode-webfont.eot');
+    src: url("fonts/demode-webfont.woff") format("woff"),
+         url("fonts/demode-webfont.woff2") format("woff2"), 
+         url("fonts/demode-webfont.svg") format("svg"),
+         url("fonts/Demode.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
