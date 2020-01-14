@@ -24,7 +24,7 @@
 /************ GENERAL ************/
 
 body {
-    background-image: linear-gradient(to bottom right, #292929, #111);
+    background-image: linear-gradient(to bottom right, #222, #111);
     font-family: 'Montserrat', sans-serif;
     color: #ccc;
     font-size: 1.1em;
@@ -124,7 +124,7 @@ html {
 }
 
 .navbar.scrolled {
-    background-color: rgba(32, 32, 32, 0.95);
+    background-color: rgba(32, 32, 32, 1);
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     transition: 0.2s linear;
     -moz-transition: 0.2s linear;
@@ -141,7 +141,7 @@ a.anchor {
 /************ HEADERS ************/
 .main-title {
     font-family: 'Demode', Montserrat, sans-serif;
-    font-size: 10vmax;
+    font-size: 9vmax;
 }
 .main-title2 {
     font-family: 'Marquee Moon', Montserrat, sans-serif;
@@ -155,7 +155,7 @@ a.anchor {
 
 .jumbotron {
     color: rgb(33, 37, 41);
-    background-image: linear-gradient(to bottom right, rgba(255, 0, 240, 0.95), #FAAD3D);
+    background-image: linear-gradient(315deg, rgba(255, 0, 240, 0.95), #FED104);
     font-family: Demode, Montserrat, sans-serif;
 }
 
@@ -191,8 +191,8 @@ a.anchor {
 }
 
 .pink-flicker {
-    animation: flash-neon-pink 2s 1s ease 1;
-    -webkit-animation: flash-neon-pink 2s 1s ease 1;
+    animation: flash-neon-pink 2s 2.2s ease 1;
+    -webkit-animation: flash-neon-pink 2s 2.2s ease 1;
 }
 
 @keyframes flash-neon-pink {
@@ -251,10 +251,7 @@ a.anchor {
     background-color: #FF00A1;
 }
 
-.yellow-neon-title-on {
-    animation: flash-neon-yellow 2s 2s ease 1;
-    -webkit-animation: flash-neon-yellow 2s 1s ease 1;
-    
+.yellow-neon-title-on {    
     text-shadow: -.075vw 0vw .075vw #FFFF00, 
                 -.1125vw 0vw .15vw #FFFF00, 
                 -.15vw 0vw .15vw #FFFF00, 
