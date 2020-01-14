@@ -56,9 +56,7 @@ html {
     background-color: rgba(239, 0, 209, 1);
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     font-size: 1.2rem;
-    font-weight: 700;
     transition: 0.4s linear;
-    /*font-weight: 900;*/
 }
 
 .navbar.scrolled {
