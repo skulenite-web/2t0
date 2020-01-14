@@ -27,6 +27,7 @@ body {
     background-image: linear-gradient(to bottom right, #292929, #111);
     font-family: 'Montserrat', sans-serif;
     color: #ccc;
+    font-size: 1.1em;
 }
 
 html {
