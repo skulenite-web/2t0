@@ -42,6 +42,8 @@ html {
     background-repeat: repeat-x;
     background-size: 4px 4px;
     transition: .4s ease;
+    -moz-transition: .4s ease;
+    -webkit-transition: .4s ease;
 }
 
 /*.nav-item a:hover:not(.navbar-crew), .nav-item a.nav-active:not(.navbar-crew) {
@@ -57,12 +59,16 @@ html {
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     font-size: 1.2rem;
     transition: 0.4s linear;
+    -moz-transition: 0.4s linear;
+    -webkit-transition: 0.4s linear;
 }
 
 .navbar.scrolled {
     background-color: rgba(32, 32, 32, 0.95);
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+    -webkit-transition: 0.2s linear;
 }
 
 a.anchor {
@@ -97,11 +103,15 @@ a.anchor {
 .btn-link {
     color: #FF00A1;
     transition: 200ms ease;
+    -moz-transition: 200ms ease;
+    -webkit-transition: 200ms ease;
 }
 
 .btn-link:hover {
     color: #FED104;
     transition: 200ms ease;
+    -moz-transition: 200ms ease;
+    -webkit-transition: 200ms ease;
 }
 
 /************ NEON ************/
