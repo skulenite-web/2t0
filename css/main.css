@@ -38,6 +38,7 @@ html {
 }
 
 .btn-primary {
+    color: rgb(33, 37, 41);
     background-color: #FAAD3D;
     border-color: #FAAD3D;
 }
@@ -65,6 +66,35 @@ html {
     box-shadow: 0 0 0 0.2rem rgba(249, 187, 99, 0.5);
 }
 
+.btn-secondary {
+    color: #fff;
+    background-color: #FF00A1;
+    border-color: #FF00A1;
+}
+
+.btn-secondary:hover {
+    background-color: #D80089; /* V -15 */
+    border-color: #CC0084; /* V -20 */
+}
+
+.btn-secondary:focus, .btn-secondary.focus {
+    background-color: #D80089; /* V -15 */
+    border-color: #CC0084; /* V -20 */
+    box-shadow: 0 0 0 0.2rem rgba(255, 38, 179, 0.5); /* S -15 */
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
+.show > .btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #CC0084; /* V -20 */
+    border-color: #BF007C; /* V -25 */
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-secondary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 38, 179, 0.5);/* S -15 */
+}
+
 /************ NAVBAR - GENERAL ************/
 .nav-item a {
     background-position: 0 100%;
@@ -84,7 +114,7 @@ html {
 
 .navbar {
     /* Old (1T9): background-color: #01415C;*/
-    background-color: rgba(239, 0, 209, 1);
+    background-color: rgba(239, 0, 209, 1); /* CONSIDER WARMER: rgb(255, 0, 161); */
     box-shadow: rgba(0,0,0,0.3) 0px 2px 8px;
     font-size: 1.2rem;
     transition: 0.4s linear;
