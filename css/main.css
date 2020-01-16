@@ -160,18 +160,12 @@ a.anchor {
 }
 
 /************ ACCORDION ************/
-.btn-link {
-    color: #FF00A1;
-    transition: 200ms ease;
-    -moz-transition: 200ms ease;
-    -webkit-transition: 200ms ease;
+.btn-link, a {
+    color: rgb(255, 0, 240);
 }
 
-.btn-link:hover {
+.btn-link:hover, a:hover {
     color: #FED104;
-    transition: 200ms ease;
-    -moz-transition: 200ms ease;
-    -webkit-transition: 200ms ease;
 }
 
 /************ NEON ************/
@@ -193,13 +187,17 @@ a.anchor {
 .pink-social {
     text-shadow: -.075vw 0vw .075vw #6D0564, -.1125vw 0vw .15vw #6D0564, -.15vw 0vw .15vw #6D0564, -.075vw 0vw 2.25vw #68055C, -.15vw 0vw 2.25vw #68055C, -.3vw 0vw 2.25vw #4F042E, -.075vw 0vw 3.75vw #4F042E, -.15vw 0vw 3.75vw #3F0418, -.3vw 0vw .6vw #3F0418, .15vw 0vw 7.5vw #3F0418;
     color: #6D0564;
-    transition: 0.1s linear;
+    transition: 0.4s ease;
+    -moz-transition: 0.4s ease;
+    -webkit-transition: 0.4s ease;
     font-family: Demode;
 }
 .pink-social:hover {
     text-shadow: -.075vw 0vw .075vw #FE00E7, -.1125vw 0vw .15vw #FE00E7, -.15vw 0vw .15vw #FE00E7, -.075vw 0vw 2.25vw #EE00D1, -.15vw 0vw 2.25vw #EE00D1, -.3vw 0vw 2.25vw #A9015E, -.075vw 0vw 3.75vw #A9015E, -.15vw 0vw 3.75vw #8F0130, -.3vw 0vw .6vw #8F0130, .15vw 0vw 7.5vw #8F0130;
     color: #FF00A1;
-    transition: 0.1s linear;
+    transition: 0.4s ease;
+    -moz-transition: 0.4s ease;
+    -webkit-transition: 0.4s ease;
 }
 
 .pink-flicker {
