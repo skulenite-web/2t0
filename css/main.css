@@ -190,6 +190,18 @@ a.anchor {
     color: #FF00A1;
 }
 
+.pink-social {
+    text-shadow: -.075vw 0vw .075vw #6D0564, -.1125vw 0vw .15vw #6D0564, -.15vw 0vw .15vw #6D0564, -.075vw 0vw 2.25vw #68055C, -.15vw 0vw 2.25vw #68055C, -.3vw 0vw 2.25vw #4F042E, -.075vw 0vw 3.75vw #4F042E, -.15vw 0vw 3.75vw #3F0418, -.3vw 0vw .6vw #3F0418, .15vw 0vw 7.5vw #3F0418;
+    color: #6D0564;
+    transition: 0.1s linear;
+    font-family: Demode;
+}
+.pink-social:hover {
+    text-shadow: -.075vw 0vw .075vw #FE00E7, -.1125vw 0vw .15vw #FE00E7, -.15vw 0vw .15vw #FE00E7, -.075vw 0vw 2.25vw #EE00D1, -.15vw 0vw 2.25vw #EE00D1, -.3vw 0vw 2.25vw #A9015E, -.075vw 0vw 3.75vw #A9015E, -.15vw 0vw 3.75vw #8F0130, -.3vw 0vw .6vw #8F0130, .15vw 0vw 7.5vw #8F0130;
+    color: #FF00A1;
+    transition: 0.1s linear;
+}
+
 .pink-flicker {
     animation: flash-neon-pink 2s 7s ease 1;
     -webkit-animation: flash-neon-pink 2s 7s ease 1;
@@ -263,6 +275,18 @@ a.anchor {
                 -.3vw 0vw .6vw #937935, 
                 .15vw 0vw 7.5vw #937935;
     color: #FED104;
+}
+
+.yellow-social {
+    text-shadow: -.075vw 0vw .075vw #7A7A06, -.1125vw 0vw .15vw #7A7A06, -.15vw 0vw .15vw #7A7A06, -.075vw 0vw 2.25vw #755123, -.15vw 0vw 2.25vw #755123, -.3vw 0vw 2.25vw #605A17, -.075vw 0vw 3.75vw #605A17, -.15vw 0vw 3.75vw #44391B, -.3vw 0vw .6vw #44391B, .15vw 0vw 7.5vw #44391B;
+    color: #7F6908;
+    transition: 0.1s linear;
+    font-family: Demode;
+}
+.yellow-social:hover {
+    text-shadow: -.075vw 0vw .075vw #FFFF00, -.1125vw 0vw .15vw #FFFF00, -.15vw 0vw .15vw #FFFF00, -.075vw 0vw 2.25vw #FAAD3D, -.15vw 0vw 2.25vw #FAAD3D, -.3vw 0vw 2.25vw #CDC123, -.075vw 0vw 3.75vw #CDC123, -.15vw 0vw 3.75vw #937935, -.3vw 0vw .6vw #937935, .15vw 0vw 7.5vw #937935;
+    color: #FED104;
+    transition: 0.1s linear;
 }
 
 .yellow-flicker {
