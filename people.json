@@ -3,280 +3,350 @@ ppl2 = {
         {
             "name" : "Jennifer Graydon",
             "role" : "Director",
-            "photo": "img/creative/jenny.png"
+            "photo": "img/creative/creative_jenny.png"
         },
         {
             "name" : "Julia Lobo",
-            "role" : "Assistant Director"
+            "role" : "Assistant Director",
+            "photo": "img/creative/creative_julia.png"
         },
         {
             "name" : "Seif Sarofim",
-            "role" : "Producer"
+            "role" : "Producer",
+            "photo": "img/creative/creative_seif.png"
+
         },
         {
             "name" : "Jon Norman",
-            "role" : "Assistant Producer"
+            "role" : "Assistant Producer",
+            "photo": "img/creative/creative_jon.png"
+
         },
         {
             "name" : "Danja Papajani",
-            "role" : "Co-Head Choreographer"
+            "role" : "Co-Head Choreographer",
+            "photo": "img/creative/creative_danja.png"
+
         },
         {
             "name" : "Mackenzie Clark",
-            "role" : "Co-Head Choreographer"
+            "role" : "Co-Head Choreographer",
+            "photo": "img/creative/creative_mack.png"
         },
         {
             "name" : "Anya Banning",
-            "role" : "Assistant Choreographer"
+            "role" : "Assistant Choreographer",
+            "photo": "img/creative/creative_anya.png"
         },
         {
-            "name" : "Katherin Mao",
-            "role" : "Music Director"
+            "name" : "Katherine Mao",
+            "role" : "Music Director",
+            "photo": "img/creative/creative_katherine.png"
+
         },
         {
             "name" : "Apurv Bharadwaj",
-            "role" : "Assistant Music Director"
+            "role" : "Assistant Music Director",
+            "photo": "img/creative/creative_apurv.png"
         },
         {
             "name" : "Mackenzie Seward",
-            "role" : "Vocal Director"
+            "role" : "Vocal Director",
+            "photo": "img/cast/cast_mack.png"
         },
         {
             "name" : "Elena Pappas",
-            "role" : "Assistant Vocal Director"
+            "role" : "Assistant Vocal Director",
+            "photo": "img/creative/creative_elena.png"
         },
         {
             "name" : "Stephen Dawe",
-            "role" : "Assistant Vocal Director"
+            "role" : "Assistant Vocal Director",
+            "photo": "img/creative/creative_stephen.png"
         },
         {
             "name" : "Michael Vu",
-            "role" : "Co-Head Writer"
+            "role" : "Co-Head Writer",
+            "photo": "img/creative/creative_mike.png"
         },
         {
             "name" : "Sofia Tijanic",
-            "role" : "Co-Head Writer"
+            "role" : "Co-Head Writer",
+            "photo": "img/creative/creative_sofia.png"
         }
     ],
     
     "crew" : [
         {
             "name" : "Sinan Keyder",
-            "role" : "Stage Manager"
+            "role" : "Stage Manager",
+            "photo": "img/crew/crew_sinan.png"
         },
         {
             "name" : "Michael Cortese",
-            "role" : "Floor Manager"
+            "role" : "Floor Manager",
+            "photo": "img/crew/crew_michael.png"
         },
         {
             "name" : "Michelle Watt",
-            "role" : "Master Carpenter"
+            "role" : "Master Carpenter",
+            "photo": "img/crew/crew_michelle.png"
         },
         {
             "name" : "Joel Kahn",
-            "role" : "Assistant Master Carpenter"
+            "role" : "Assistant Master Carpenter",
+            "photo": "img/crew/crew_joel.png"
         },
         {
             "name" : "Kyra Poupore",
-            "role" : "Costumes Director"
+            "role" : "Costumes Director",
+            "photo": "img/crew/crew_kyra.png"
         },
         {
             "name" : "Lily Xie",
-            "role" : "Assistant Costumes Director"
+            "role" : "Assistant Costumes Director",
+            "photo": "img/crew/crew_lily.png"
         },
         {
             "name" : "Katherine Rich",
-            "role" : "Co-Graphics Director"
+            "role" : "Co-Graphics Director",
+            "photo": "img/crew/crew_kat.png"
         },
         {
             "name" : "Danylo Varshavsky",
-            "role" : "Co-Graphics Director"
+            "role" : "Co-Graphics Director",
+            "photo": "img/crew/crew_danylo.png"
         },
         {
             "name" : "Andrew Uderian",
-            "role" : "Lighting Director"
+            "role" : "Lighting Director",
+            "photo": "img/crew/crew_andrew.png"
         },
         {
             "name" : "Brian Lam",
-            "role" : "Assistant Lighting Director"
+            "role" : "Assistant Lighting Director",
+            "photo": "img/crew/crew_brian.png"
         },
         {
             "name" : "Alyson Allen",
-            "role" : "Marketing Director"
+            "role" : "Marketing Director",
+            "photo": "img/crew/crew_alyson.png"
         },
         {
             "name" : "Maya Dai",
-            "role" : "Master Painter"
+            "role" : "Master Painter",
+            "photo": "img/crew/crew_maya.png"
         },
         {
             "name" : "Cynthia Yeh",
-            "role" : "Assistant Master Painter"
+            "role" : "Assistant Master Painter",
+            "photo": "img/crew/crew_cynthia.png"
         },
         {
             "name" : "Onasvi Kharsikar",
-            "role" : "Propsmaster"
+            "role" : "Propsmaster",
+            "photo": "img/crew/crew_onasvi.png"
         },
         {
             "name" : "Sera Shkut",
-            "role" : "Assistant Propsmaster"
+            "role" : "Assistant Propsmaster",
+            "photo": "img/crew/crew_sera.png"
         },
         {
             "name" : "Char Erb",
-            "role" : "Co-Sound Director"
+            "role" : "Co-Sound Director",
+            "photo": "img/crew/crew_char.png"
         },
         {
             "name" : "Bing Li",
-            "role" : "Co-Sound Director"
+            "role" : "Co-Sound Director",
+            "photo": "img/crew/crew_bing.png"
         },
         {
             "name" : "Emily Macdonald-Roach",
-            "role" : "SFX Director"
+            "role" : "SFX Director",
+            "photo": "img/crew/crew_emily.png"
         },
         {
             "name" : "Victoria Ruiz",
-            "role" : "Assistant SFX Director"
+            "role" : "Assistant SFX Director",
+            "photo": "img/crew/crew_victoria.png"
         },
         {
             "name" : "Meghan Muldoon",
-            "role" : "Technical Director"
+            "role" : "Technical Director",
+            "photo": "img/crew/crew_meghan.png"
         },
         {
             "name" : "Daniel Ding",
-            "role" : "Assistant Technical Director"
+            "role" : "Assistant Technical Director",
+            "photo": "img/crew/crew_daniel.png"
         },
         {
             "name" : "Gabe Sher",
-            "role" : "Webmaster"
+            "role" : "Webmaster",
+            "photo": "img/crew/crew_gabe.png"
         },
         {
             "name" : "Peter Athanas",
-            "role" : "Videographer"
+            "role" : "Videographer",
+            "photo": "img/crew/crew_peter.png"
         }
     ],
     
     "band" : [
         {
             "name" : "Max Fingold",
-            "role" : "Alto Sax"
+            "role" : "Alto Sax",
+            "photo": "img/band/band_max.png"
         },
         {
             "name" : "Ian Wang",
-            "role" : "Tenor Sax"
+            "role" : "Tenor Sax",
+            "photo": "img/band/band_ian.png"
         },
         {
             "name" : "Emily Ding",
-            "role" : "Clarinet"
+            "role" : "Clarinet",
+            "photo": "img/band/band_emily.png"
         },
         {
             "name" : "Eleanor Jiang",
-            "role" : "Flute"
+            "role" : "Flute",
+            "photo": "img/band/band_eleanor.png"
         },
         {
             "name" : "Matthew Graham",
-            "role" : "Trumpet I"
+            "role" : "Trumpet I",
+            "photo": "img/band/band_matthew.png"
         },
         {
             "name" : "Stephen Manion",
-            "role" : "Trumpet II"
+            "role" : "Trumpet II",
+            "photo": "img/band/band_stephen.png"
         },
         {
             "name" : "Alec Gilvesy",
-            "role" : "Trombone"
+            "role" : "Trombone",
+            "photo": "img/band/band_alec.png"
         },
         {
             "name" : "Apurv Bharadwaj",
-            "role" : "Bass Trombone"
+            "role" : "Bass Trombone",
+            "photo": "img/band/band_apurv.png"
         },
         {
             "name" : "Kate Sohn",
-            "role" : "Violin I"
+            "role" : "Violin I",
+            "photo": "img/band/band_kate.png"
         },
         {
             "name" : "Katie Stephens",
-            "role" : "Violin II"
+            "role" : "Violin II",
+            "photo": "img/band/band_katie.png"
         },
         {
             "name" : "William Pei",
-            "role" : "Keyboard I"
+            "role" : "Keyboard I",
+            "photo": "img/band/band_williamp.png"
         },
         {
             "name" : "Eldon Chen",
-            "role" : "Keyboard II"
+            "role" : "Keyboard II",
+            "photo": "img/band/band_eldon.png"
         },
         {
             "name" : "Willam Wang",
-            "role" : "Guitar"
+            "role" : "Guitar",
+            "photo": "img/band/band_williamp.png"
         },
         {
             "name" : "Sergio Ponde Dhelomme",
-            "role" : "Bass"
+            "role" : "Bass",
+            "photo": "img/band/band_sergio.png"
         },
         {
             "name" : "Liam McGarry",
-            "role" : "Drums"
+            "role" : "Drums",
+            "photo": "img/band/band_liam.png"
         },
         {
             "name" : "Sabrina Chen",
-            "role" : "Aux Percussion"
+            "role" : "Aux Percussion",
+            "photo": "img/band/band_sabrina.png"
         }
     ],
     
     "cast" : [
         {
             "name" : "Jacqueline Amoranto",
-            "bio" : "A maladroit thespian. She is best known for her roles: \"tongue-tied\" in \"ordering at an eating establishment\", \"persistently late\" in \"the 9 am lecture\", and \"why am I sweating\" in \"this is the 5th floor of Myhal\"."
+            "bio" : "A maladroit thespian. She is best known for her roles: \"tongue-tied\" in \"ordering at an eating establishment\", \"persistently late\" in \"the 9 am lecture\", and \"why am I sweating\" in \"this is the 5th floor of Myhal\".",
+            "photo": "img/cast/cast_jac.png"
         },
         {
             "name" : "Andrew Barton",
-            "bio" : "When Andrew joined Skule Nite, he didn't know how to dance. Unfortunately for him, some things just never change."
+            "bio" : "When Andrew joined Skule Nite, he didn't know how to dance. Unfortunately for him, some things just never change.",
+            "photo": "img/cast/cast_andrew.png"
         },
         {
             "name" : "Anya Banning",
-            "bio" : "Describe Anya in 200 characters? What a task. 200. Yup. 200. That is… a number. She is just sooooooo… uhhhhhhhh... interesting. Yes. Interesting. And… now it looooks like we’re out of space. Oh noooo."
+            "bio" : "Describe Anya in 200 characters? What a task. 200. Yup. 200. That is… a number. She is just sooooooo… uhhhhhhhh... interesting. Yes. Interesting. And… now it looooks like we’re out of space. Oh noooo.",
+            "photo": "img/creative/creative_anya.png"
         },
         {
             "name" : "Josh Davis",
-            "bio" : "Josh eats all of his exams because he knows that the only way he's passing them is through his bowels. The script for tonight was halfway down his throat before he was told he only had to perform it."
+            "bio" : "Josh eats all of his exams because he knows that the only way he's passing them is through his bowels. The script for tonight was halfway down his throat before he was told he only had to perform it.",
+            "photo": "img/cast/cast_josh.png"
         },
         {
             "name" : "Thomas Dell",
-            "bio" : "Thomas has only returned to his home planet once: to witness the twin sunsets on the beaches of Bartakhlith, but also to disappoint his mother one last time."
+            "bio" : "Thomas has only returned to his home planet once: to witness the twin sunsets on the beaches of Bartakhlith, but also to disappoint his mother one last time.",
+            "photo": "img/cast/cast_thomas.png"
         },
         {
             "name" : "Jacob Foster",
-            "bio" : "To this day, the directors are trying to figure out if Jacob is actually in fact two fourth graders stacked atop each other... the choreographers say it would explain his dancing abilities."
+            "bio" : "To this day, the directors are trying to figure out if Jacob is actually in fact two fourth graders stacked atop each other... the choreographers say it would explain his dancing abilities.",
+            "photo": "img/cast/cast_jacobna.png"
         },
         {
             "name" : "Kieran Kasha",
-            "bio" : "Kieran, a rad mad lad clad in plaid, starter of fads, joker of dads, defender of chads, enlarger of gonads, making haters sad, and if he might add, to be part of skule nite he is eternally glad."
+            "bio" : "Kieran, a rad mad lad clad in plaid, starter of fads, joker of dads, defender of chads, enlarger of gonads, making haters sad, and if he might add, to be part of skule nite he is eternally glad.",
+            "photo": "img/cast/cast_kieran.png"
         },
         {
             "name" : "Rhythm Loomba",
-            "bio" : "Rhythm has been in several musicals before. As a child, she was on Broadway. She is the youngest EGOT ever and has a 5.0 GPA. Rhythm hopes people will believe everything they read in a programme."
+            "bio" : "Rhythm has been in several musicals before. As a child, she was on Broadway. She is the youngest EGOT ever and has a 5.0 GPA. Rhythm hopes people will believe everything they read in a programme.",
+            "photo": "img/cast/cast_rhythm.png"
         },
         {
             "name" : "Stephanie McDonald",
-            "bio" : "Though it may be convincing, don't be fooled. Steph is actually controlled by a colony of bees settled in Newfoundland."
+            "bio" : "Though it may be convincing, don't be fooled. Steph is actually controlled by a colony of bees settled in Newfoundland.",
+            "photo": "img/cast/cast_steph.png"
         },
         {
             "name" : "Chloe Oriotis",
-            "bio" : "Chloe lives by one rule: always embarrass yourself before anyone else gets the chance to. Case in point: the next few hours."
+            "bio" : "Chloe lives by one rule: always embarrass yourself before anyone else gets the chance to. Case in point: the next few hours.",
+            "photo": "img/cast/cast_chloe.png"
         },
         {
             "name" : "Erin Richardson",
-            "bio" : "Erin is really excited for show week. So are her roommates and neighbors. Maybe then they won’t have to listen to her belting show tunes every time she takes a shower."
+            "bio" : "Erin is really excited for show week. So are her roommates and neighbors. Maybe then they won’t have to listen to her belting show tunes every time she takes a shower.",
+            "photo": "img/cast/cast_erin.png"
         },
         {
             "name" : "Karma Sadhwani",
-            "bio" : "Karma called in \"sick\" three months ago, no one has seen her since then. The directors really hope she’ll be back in time for the show. IF YOU’RE READING THIS KARMA, PLEASE COME BACK. "
+            "bio" : "Karma called in \"sick\" three months ago, no one has seen her since then. The directors really hope she’ll be back in time for the show. IF YOU’RE READING THIS KARMA, PLEASE COME BACK.",
+            "photo": "img/cast/cast_karma.png"
         },
         {
             "name" : "Mackenzie Seward",
-            "bio" : "Mackenzie is super excited for you to see the show. In fact, she’ll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she won’t. Probably."
+            "bio" : "Mackenzie is super excited for you to see the show. In fact, she’ll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she won’t. Probably.",
+            "photo": "img/cast/cast_mack.png"
         },
         {
             "name" : "Venkat Vivekanandan",
-            "bio" : "Venkat - noun \ven\‘kat\ - average sized domesticated carnivorous human with soft hair, large snout and chubby fingers. Venkats are widely kept as pets or for comedic purposes. (Not affiliated with cat)."
+            "bio" : "Venkat - noun \ven\‘kat\ - average sized domesticated carnivorous human with soft hair, large snout and chubby fingers. Venkats are widely kept as pets or for comedic purposes. (Not affiliated with cat).",
+            "photo": "img/cast/cast_venkat.png"
         }
     ]
 }
