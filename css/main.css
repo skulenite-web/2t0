@@ -206,7 +206,7 @@ a.anchor {
 }
 
 @keyframes flash-neon-pink {
-    8%, 43%, 57%, 67%, 76%, 81%, 86%, 90.5%, 93%, 95.5%, 98% {
+    2%, 12%, 43%, 57%, 66%, 71%, 76%, 87.5%, 93% {
         text-shadow: -.075vw 0vw .075vw #6D0564, 
                      -.1125vw 0vw .15vw #6D0564, 
                      -.15vw 0vw .15vw #6D0564, 
@@ -220,7 +220,7 @@ a.anchor {
         color: #6D0564;
     }
 
-    0%, 40%, 55%, 65%, 75%, 80%, 85%, 90%, 92.5%, 95%, 97.5%, 100% {
+    0%, 10%, 40%, 55%, 65%, 70%, 75%, 80%, 90%, 100% {
          text-shadow: -.075vw 0vw .075vw #FE00E7, 
                      -.1125vw 0vw .15vw #FE00E7, 
                      -.15vw 0vw .15vw #FE00E7, 
@@ -287,9 +287,9 @@ a.anchor {
     transition: 0.1s linear;
 }
 
-.yellow-flicker {
-    animation: flash-neon-yellow 2s 2s ease 1;
-    -webkit-animation: flash-neon-yellow 2s 1s ease 1;
+.yellow-flicker-late {
+    animation: flash-neon-yellow 2s 18s ease 1;
+    -webkit-animation: flash-neon-yellow 2s 18s ease 1;
 }
 
 @keyframes flash-neon-yellow {
