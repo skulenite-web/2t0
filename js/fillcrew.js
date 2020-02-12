@@ -108,11 +108,6 @@ var ppl = {
             "photo": "img/crew/lily.jpg"
         },
         {
-            "name" : "Katherine Rich",
-            "role" : "Co-Graphics Director",
-            "photo": "img/crew/kat.jpg"
-        },
-        {
             "name" : "Danylo Varshavsky",
             "role" : "Co-Graphics Director",
             "photo": "img/crew/danylo.jpg"
