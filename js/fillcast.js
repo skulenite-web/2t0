@@ -340,7 +340,7 @@ var ppl = {
         },
         {
             "name" : "Mackenzie Seward",
-            "bio" : "Mackenzie is super excited for you to see the show. In fact, she;ll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she won’t. Probably.",
+            "bio" : "Mackenzie is super excited for you to see the show. In fact, she'll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she won't. Probably.",
             "photo": "img/cast/mack.jpg"
         },
         {

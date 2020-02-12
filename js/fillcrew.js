@@ -113,6 +113,11 @@ var ppl = {
             "photo": "img/crew/danylo.jpg"
         },
         {
+            "name" : "Katherine Rich",
+            "role" : "Co-Graphics Director",
+            "photo": "img/logo.png"
+        },
+        {
             "name" : "Andrew Uderian",
             "role" : "Lighting Director",
             "photo": "img/crew/andrew.jpg"
@@ -285,7 +290,7 @@ var ppl = {
         },
         {
             "name" : "Anya Banning",
-            "bio" : "Describe Anya in 200 characters? What a task. 200. Yup. 200. That is… a number. She is just sooooooo… uhhhhhhhh... interesting. Yes. Interesting. And… now it looooks like we’re out of space. Oh noooo.",
+            "bio" : "Describe Anya in 200 characters? What a task. 200. Yup. 200. That isï¿½ a number. She is just soooooooï¿½ uhhhhhhhh... interesting. Yes. Interesting. Andï¿½ now it looooks like weï¿½re out of space. Oh noooo.",
             "photo": "img/creative/anya.jpg"
         },
         {
@@ -325,22 +330,22 @@ var ppl = {
         },
         {
             "name" : "Erin Richardson",
-            "bio" : "Erin is really excited for show week. So are her roommates and neighbors. Maybe then they won’t have to listen to her belting show tunes every time she takes a shower.",
+            "bio" : "Erin is really excited for show week. So are her roommates and neighbors. Maybe then they wonï¿½t have to listen to her belting show tunes every time she takes a shower.",
             "photo": "img/cast/erin.jpg"
         },
         {
             "name" : "Karma Sadhwani",
-            "bio" : "Karma called in \"sick\" three months ago, no one has seen her since then. The directors really hope she’ll be back in time for the show. IF YOU’RE READING THIS KARMA, PLEASE COME BACK.",
+            "bio" : "Karma called in \"sick\" three months ago, no one has seen her since then. The directors really hope sheï¿½ll be back in time for the show. IF YOUï¿½RE READING THIS KARMA, PLEASE COME BACK.",
             "photo": "img/cast/karma.jpg"
         },
         {
             "name" : "Mackenzie Seward",
-            "bio" : "Mackenzie is super excited for you to see the show. In fact, she’ll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she won’t. Probably.",
+            "bio" : "Mackenzie is super excited for you to see the show. In fact, sheï¿½ll be distributing a quiz about the performance to make sure you watch every minute of it. Just kidding, she wonï¿½t. Probably.",
             "photo": "img/cast/mack.jpg"
         },
         {
             "name" : "Venkat Vivekanandan",
-            "bio" : "Venkat - noun \\ven\\‘kat\\ - average sized domesticated carnivorous human with soft hair, large snout and chubby fingers. Venkats are widely kept as pets or for comedic purposes. (Not affiliated with cat).",
+            "bio" : "Venkat - noun \\ven\\ï¿½kat\\ - average sized domesticated carnivorous human with soft hair, large snout and chubby fingers. Venkats are widely kept as pets or for comedic purposes. (Not affiliated with cat).",
             "photo": "img/cast/venkat.jpg"
         }
     ]
