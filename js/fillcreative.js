@@ -41,13 +41,13 @@ var ppl = {
         {
             "name" : "Katherine Mao",
             "role" : "Music Director",
-            "photo": "img/creative/katherine.jpg"
+            "photo": "img/band/katherine.jpg"
 
         },
         {
             "name" : "Apurv Bharadwaj",
             "role" : "Assistant Music Director",
-            "photo": "img/creative/apurv.jpg"
+            "photo": "img/band/apurv.jpg"
         },
         {
             "name" : "Mackenzie Seward",
