@@ -71,32 +71,87 @@
         </div>
         <!-- Slideshow at top of page -->
         <!-- Content -->
-        <div class="container">
-            
-            <div class="row text-center container pt-4">
-                <p>
-                    <h3>YAY! Thanks for joining us! We are still getting things ready. See you at 8pm on Friday!</h3>
-                </p>
+        <div class="container"> 
+            <div class="row container pt-4 text-center">
+                    <h3 class="text-center">Welcome and thank you for attending our virtual Skule Nite! 
+                        We can’t wait to share a laugh with you tonight. You rock!</h3>
             </div>
-            <div class="row text-center container pt-4" id="clockdiv">
+            
+            <!-- LIVESTREAM STUFF -->
+            <div class="row">
+                <div class="col">
+                    <div class="container pt-4">
+                        <iframe width=100% height=505 src="https://www.youtube.com/embed/pLnQ_0-QbxU" frameborder="0" 
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="container pt-4">
+                        <iframe width=100% height=505 src="https://www.youtube.com/live_chat?v=pLnQ_0-QbxU&embed_domain=www.skulenite.skule.ca"></iframe>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- DONATE BTN -->
+            <div class="row">
+                <div class="container pt-4">
+                    <div class="pink-neon-title-on text-center group-title"> 
+                        <a href="https://donate.utoronto.ca/give/show/598">Donate</a>
+                    </div>
+                </div>
+            </div>
 
-                <div class="col align-middle yellow-neon-title-on group-title">
-                    <div class="days"></div>
-                    <span>Days</span>
-                </div>
-                <div class="col group-title pink-neon-title-on">
-                    <div class="hours"></div>
-                    <span>Hours</span>
-                </div>
-                <div class="col yellow-neon-title-on group-title">
-                    <div class="minutes"></div>
-                    <span>Minutes</span>
-                </div>
-                <div class="col pink-neon-title-on group-title">
-                    <div class="seconds"></div>
-                    <span>Seconds</span>
-                </div>
+            <!-- PROGRAMME -->
+            <div class="row"> 
+                <div class="container pt-4">
+                    <div class="yellow-neon-title-on text-center group-title"> Programme </div>
 
+                    <div id="adobe-dc-view" style="height: 720px; width: 100%"></div>
+                    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+                    <script type="text/javascript">
+                        document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+                            var adobeDCView = new AdobeDC.View({clientId: "2339a1323a8e4d11817778de6eac1532", divId: "adobe-dc-view"});
+                            adobeDCView.previewFile({
+                                content:{location: {url: "https://www.skulenite.skule.ca/uploads/SN2T0_Programme_small.pdf"}},
+                                metaData:{fileName: "SN2T0_Programme.pdf"}
+                            }, {embedMode: "SIZED_CONTAINER"});
+                        });
+                    </script> 
+                </div>
+            </div>
+
+            <!-- SEND MESSAGE TO TEAM  -->
+            <div class="row">
+                <div class="container pt-4">
+                    <div class="pink-neon-title-on text-center group-title"> Send a message to the Team! </div>
+                    
+                    <div class="container pt-4">
+                        <!-- <form id="ajaxForm" action="https://formsubmit.co/ajax/msg@skulenite.skule.ca" method="POST" target="_blank" enctype="multipart/form-data"> -->
+                        <form id="notAjaxForm" action="https://formstatic.dev" method="post">
+                            <input type="hidden" name="$processor" value="email">
+                            <input type="hidden" name="$to" value="msg@skulenite.skule.ca">
+                            <input type="hidden" name="$honeypot" style="display: none;">
+                            <input type="hidden" name="$redirect_to" value="https://www.skulenite.skule.ca/message_success">
+
+                            <div class="form-group">
+                                <label for="exampleName">Message</label>
+                                <textarea class="form-control" name="text" rows="5" id="message"></textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleName">Name</label>
+                                <input type="text" name="name" class="form-control" id="inputName" placeholder="Enter name (optional)">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Email address</label>
+                                <input type="email" name="email" class="form-control" id="inputEmail"  placeholder="Enter email (optional)">
+                            </div>
+                            <div class="success" id="msg_success">We received your message, thank you!</div> 
+                            <button type="submit" class="btn pink-social">Send</button>
+                    
+                        </form>
+                    </div>
+
+                </div>
             </div>
 
         </div>
