@@ -348,6 +348,14 @@ a.anchor {
     background-color: #FED104;
 }
 
+.success {
+    display: none;
+}
+
+.success.is-active {
+    display: block;
+}
+
 /*  UNUSED NEON:
 .orangered-neon-title-on {
     text-shadow: -.1vw 0vw .1vw #FED128, 
