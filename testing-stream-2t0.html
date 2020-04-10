@@ -109,7 +109,7 @@
                             <input type="hidden" name="$processor" value="email">
                             <input type="hidden" name="$to" value="msg@skulenite.skule.ca">
                             <input type="hidden" name="$honeypot" style="display: none;">
-                            <input type="hidden" name="$redirect_to" value="https://www.skulenite.skule.ca/testing-stream-2t0.html">
+                            <input type="hidden" name="$redirect_to" value="https://www.skulenite.skule.ca/message_success">
 
                             <div class="form-group">
                                 <label for="exampleName">Message</label>
@@ -124,7 +124,7 @@
                                 <input type="email" name="email" class="form-control" id="inputEmail"  placeholder="Enter email (optional)">
                             </div>
                             <div class="success" id="msg_success">We received your message, thank you!</div> 
-                            <button type="submit" class="btn yellow-social">Send</button>
+                            <button type="submit" class="btn pink-social">Send</button>
                     
                         </form>
                     </div>
@@ -132,8 +132,11 @@
                 </div>
             </div>
 
-            <div>
-
+            <div class="row">
+                <div class="container pt-4">
+                    <div class="yellow-neon-title-on text-center group-title"> 
+                        <a href="http://donate.utoronto.ca/skule-nite">Donate</a>
+                    </div>
             </div>
 
         </div>
@@ -159,14 +162,6 @@
             </div>
         </section>
     </main>
-
-
-    <!-- Form submit -->
-    <script>
-        $("#ajaxForm").submit(
-            $('.success').addClass('is-active')
-        );
-    </script>
 
 
     <!-- Optional JavaScript -->
