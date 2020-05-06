@@ -1,0 +1,17 @@
+[[redirects]]
+from = "/watch-2t0-online"
+to = "/not-available"
+status = 301
+force = true
+
+[[redirects]]
+from = "/watch-internal"
+to = "/not-available"
+status = 301
+force = false
+
+[[redirects]]
+from = "/watch-team"
+to = "/not-available"
+status = 301
+force = false
