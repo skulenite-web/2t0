@@ -15,3 +15,10 @@ from = "/watch-team"
 to = "/not-available"
 status = 301
 force = false
+
+[[redirects]]
+from = "/"
+to = "https://www.skulenite2t1.skule.ca"
+status = 200
+force = true
+headers = {X-From = "Base SkuleNite Site on Netlify"}
